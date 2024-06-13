@@ -1,0 +1,14 @@
+﻿@using PL.ViewModels
+@model RoleViewModel
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+<div>
+    @* <partial name="Views\User\PartialViews\_DeleteDetailsView.cshtml" /> *@
+    @Html.Partial("~/Views/Role/PartialViews/_DeleteDetailsView.cshtml")
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-secondary">Edit</a> ||
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</div>

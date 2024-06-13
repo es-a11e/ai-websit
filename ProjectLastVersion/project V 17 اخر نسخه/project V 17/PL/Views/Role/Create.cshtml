@@ -1,0 +1,16 @@
+﻿@using PL.ViewModels
+@model RoleViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create New Role</h1>
+<br />
+<br />
+<form asp-action="Create" enctype="multipart/form-data">
+    @Html.Partial("~/Views/Role/PartialViews/_CreateEditView.cshtml")
+    <input type="submit" name="Submit" class="btn btn-primary" />||
+    <a asp-action="Index" class="btn btn-light"> Back To List</a>
+</form>
+

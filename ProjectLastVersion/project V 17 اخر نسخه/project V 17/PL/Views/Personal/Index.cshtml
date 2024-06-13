@@ -1,0 +1,177 @@
+﻿@model IEnumerable< PersonsViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<section class=" vh-100 vw-100  ">
+    @if (TempData["Massage"] is not null)
+    {
+        <div id="MassageDiv" class="alert alert-success fixed-top ">
+            <h1> @TempData["Massage"] </h1>
+        </div>
+    }
+    <div class=" ">
+        <h1 class="bt-3">
+            you can search on any people
+        </h1>
+        <div class="sear-wrapper d-flex justify-content-center" style="position: relative;">
+            <form class="row offset-2 m-3" asp-action="Search">
+                <div class=" pe-0 col-8">
+                    <input class="form-control" type="number" name="SearchValue" placeholder="Enter search term" value="Search" />
+                </div>
+                <div class=" px-0 col-4 ">
+                    <button class="mt-0 button ">Search </button>
+                </div>
+            </form>
+        </div>
+        <br>
+        <button class="bt  " style=" left: 50%; transform: translate(-50%, -50%); ">
+            <a class="" asp-action="Create">Add New Person</a>
+
+        </button>
+
+
+        <div class="card-container  " style="display: flex; flex-wrap: wrap;  gap: 10px; justify-content: center; ">
+            @foreach (var entity in Model)
+            {
+                if (entity.Is_he_missing == true)
+                {
+                <div class="three-d-card  ">
+                    <div class="card-wrapper  ">
+                            <div class="card-face front  shadowRed ">
+                                <div class="card-content ">
+                                <img src="~/Files/Chiledrens_Images/@entity.ImageName" alt="" style="height: 144px; width: 144px; border-radius: 75px; margin-top: -11px;">
+                                <div class="card-title">@entity.Name <span>@entity.Father.Name</span></div>
+                                <div class="card-description">@entity.NationalPerson_Id</div>
+                                <p>@entity.Address</p>
+
+                            </div>
+                        </div>
+                            <div class="card-face  back front shadowRed">
+                                <div class="card-content">
+                                <img src="~/Files/Chiledrens_Images/@entity.ImageName" alt="" style="height: 144px; width: 144px; border-radius: 75px; margin-top: -11px; ">
+                                <div class="card-title text-red">@entity.Name <span>@entity.Father.Name</span></div>
+                                <p class="i " style="color: rgb(255, 46, 81);">@entity.NationalPerson_Id</p>
+
+
+                                <div class="card-description m-1">
+                                    <div class="column">
+                                        <p>@entity.Mother.Name</p>
+                                    </div>
+                                    <div class="column">
+
+                                        @if (entity.Gender == true)
+                                        {
+                                            <p> mail </p>
+                                        }
+                                        else
+                                        {
+                                            <p> femail </p>
+                                        }
+
+                                        <p class="m-1">@entity.HomePhoneNumber</p>
+                                    </div>
+                                    <div class="column">
+                                        @if (entity.Is_he_missing == true)
+                                        {
+                                            <p class="text-danger"> missing </p>
+                                        }
+                                        else
+                                        {
+                                            <p> NotMissing </p>
+                                        }
+                                    </div>
+                                </div>
+
+
+                                <div class="button-group ">
+                                    <button class="bt  ">
+                                        <a class="" asp-action="Detielse" asp-route-id="@entity.NationalPerson_Id">Detiels</a>
+
+                                    </button>
+                                    <button class="bt  ">
+                                        <a class="" asp-action="Edit" asp-route-id="@entity.NationalPerson_Id">Edit</a>
+                                    </button>
+                                    <button class="bt ">
+                                        <a class="" asp-action="Delete" asp-route-id="@entity.NationalPerson_Id">Delete</a>
+                                    </button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                }
+                else
+                {
+                    <div class="three-d-card">
+                        <div class="card-wrapper">
+                        <div class="card-face front">
+                            <div class="card-content">
+                                <img src="~/Files/Chiledrens_Images/@entity.ImageName" alt="" style="height: 144px; width: 144px; border-radius: 75px; margin-top: -11px;">
+                                <div class="card-title">@entity.Name <span>@entity.Father.Name</span></div>
+                                <div class="card-description">@entity.NationalPerson_Id</div>
+                                <p>@entity.Address</p>
+
+                            </div>
+                        </div>
+                        <div class="card-face back">
+                            <div class="card-content">
+                                <img src="~/Files/Chiledrens_Images/@entity.ImageName" alt="" style="height: 144px; width: 144px; border-radius: 75px; margin-top: -11px; ">
+                                <div class="card-title text-red">@entity.Name <span>@entity.Father.Name</span></div>
+                                <p class="i " style="color: rgb(255, 46, 81);">@entity.NationalPerson_Id</p>
+
+
+                                <div class="card-description m-1">
+                                    <div class="column">
+                                        <p>@entity.Mother.Name</p>
+                                    </div>
+                                    <div class="column">
+
+                                        @if (entity.Gender == true)
+                                        {
+                                            <p> mail </p>
+                                        }
+                                        else
+                                        {
+                                            <p> femail </p>
+                                        }
+
+                                        <p class="m-1">@entity.HomePhoneNumber</p>
+                                    </div>
+                                    <div class="column">
+                                        @if (entity.Is_he_missing == true)
+                                        {
+                                            <p> missing </p>
+                                        }
+                                        else
+                                        {
+                                            <p> NotMissing </p>
+                                        }
+                                    </div>
+                                </div>
+
+
+                                <div class="button-group ">
+                                    <button class="bt  ">
+                                        <a class="" asp-action="Detielse" asp-route-id="@entity.NationalPerson_Id">Detiels</a>
+
+                                    </button>
+                                    <button class="bt  ">
+                                        <a class="" asp-action="Edit" asp-route-id="@entity.NationalPerson_Id">Edit</a>
+                                    </button>
+                                    <button class="bt ">
+                                        <a class="" asp-action="Delete" asp-route-id="@entity.NationalPerson_Id">Delete</a>
+                                    </button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                }
+            }
+        </div>
+    </div>
+    
+</section>

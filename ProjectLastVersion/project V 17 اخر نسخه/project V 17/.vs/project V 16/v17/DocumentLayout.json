@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\views\\user\\partialviews\\_deletedetailsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\views\\user\\partialviews\\_deletedetailsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\route back-end\\zz\\project graduation\\project v 17\\project v 17\\pl\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_DeleteDetailsView.cshtml",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\User\\PartialViews\\_DeleteDetailsView.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\User\\PartialViews\\_DeleteDetailsView.cshtml",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\User\\PartialViews\\_DeleteDetailsView.cshtml",
+              "RelativeToolTip": "PL\\Views\\User\\PartialViews\\_DeleteDetailsView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:12:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\User\\Details.cshtml",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "PL\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:09:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "PL\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:06:41.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "PL\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:06:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Startup.cs",
+              "RelativeDocumentMoniker": "PL\\Startup.cs",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Startup.cs",
+              "RelativeToolTip": "PL\\Startup.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDAAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:01:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\appsettings.json",
+              "RelativeDocumentMoniker": "PL\\appsettings.json",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\appsettings.json",
+              "RelativeToolTip": "PL\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T22:52:21.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController1.cs",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Controllers\\UserController1.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\UserController1.cs",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\Controllers\\UserController1.cs",
+              "RelativeToolTip": "PL\\Controllers\\UserController1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:48:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\MappingProfile\\UserProfile.cs",
+              "RelativeDocumentMoniker": "PL\\MappingProfile\\UserProfile.cs",
+              "ToolTip": "D:\\Route Back-End\\zz\\Project Graduation\\project V 17\\project V 17\\PL\\MappingProfile\\UserProfile.cs",
+              "RelativeToolTip": "PL\\MappingProfile\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:48:26.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1562,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

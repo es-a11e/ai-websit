@@ -1,0 +1,16 @@
+﻿@using PL.ViewModels
+@model UserViewModel
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Are You Sure To Delete This User?</h1>
+<br />
+<form asp-action="Delete">
+    <div asp-validation-summary="All"></div>
+    <partial name="PartialViews/_DeleteDetailsView" />
+
+    <input type="submit" value="Delete" class="btn btn-danger " /> ||
+    <a asp-action="Index" class="btn btn-light">Cancel</a>
+</form>

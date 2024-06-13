@@ -1,0 +1,264 @@
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\bin\Debug\net5.0\DAL.dll
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\bin\Debug\net5.0\DAL.pdb
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\DAL.dll
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\DAL.pdb
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 00\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 00\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 00\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 00\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 01\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 01\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 01\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 01\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 02\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 02\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 02\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 02\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 03\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 03\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 03\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 03\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 04\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 04\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 04\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 04\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 05\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 05\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 05\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 05\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 06\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 06\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 07\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+F:\مشروع التخرج\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 14\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 14\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 14\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 14\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 15\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 15\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 15\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 15\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\مشروع التخرج\00\project V 16\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\مشروع التخرج\00\project V 16\DAL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 16\DAL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 16\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\bin\Debug\net5.0\DAL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\DAL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\DAL\obj\Debug\net5.0\ref\DAL.dll

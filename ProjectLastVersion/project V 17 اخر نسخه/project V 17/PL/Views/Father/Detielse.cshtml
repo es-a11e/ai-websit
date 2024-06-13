@@ -1,0 +1,176 @@
+﻿@model FatherViewModel
+@{
+    ViewData["Title"] = "Detielse";
+}
+
+
+
+<section class=" background-image height section  py-5 text-center d-flex align-items-center justify-content-center ">
+    <div class="background-image widthDetiles rounded shadow-lg the-continer box ">
+        <div class="row  ">
+            <div class="col-md-4 mt-3 ShadowElement ">
+
+
+
+                <img src="~/Files/Fathers_Images/@Model.ImageName" class=" rounded-circle  overflow-hidden my-2 shadow-lg " width="280" height="280" alt="Chield" />
+
+                <div class="p-1">
+                    <h4 class="font-weight-bolder ">Name</h4>
+                    <p class="lead font-weight-bold text-danger ">@Model.Name </p>
+                </div>
+
+                <div class="p-1">
+                    <h4 class="font-weight-bolder">National number</h4>
+                    <p class="lead font-weight-bold text-danger ">@Model.National_Father_Id </p>
+                </div>
+
+
+
+                <div class="p-1">
+                    <h4 class="font-weight-bolder">Address</h4>
+                    <p class="lead font-weight-bold text-danger  ">@Model.Address </p>
+                </div>
+
+
+            </div>
+            <div class="col-md-8 mt-3   w-100 ">
+                <div class="hightNots p-3 ">
+                    <h2 class="font-weight-bolder"> Nots </h2>
+                    <p class="lead ">@Model.Nots</p>
+                </div>
+
+                <div class="row mt-5">
+                    <div class="col-md-4 text-left  mt-5 mx-5  ">
+
+                        <div class="p-1">
+                            <h5 class="font-weight-bolder">Home Phone Number </h5>
+                            <p class="lead font-weight-bold text-danger "><span>0</span>@Model.HomePhoneNumber</p>
+                        </div>
+                        <div class="p-1">
+                            <h5 class="font-weight-bolder"> Phone Number </h5>
+                            <p class="lead font-weight-bold text-danger "><span>0</span>@Model.PhoneNumber1</p>
+                        </div>
+                        <div class="p-1">
+                            <h5 class="font-weight-bolder">Other Phone Number </h5>
+                            <p class="lead font-weight-bold text-danger "><span>0</span>@Model.PhoneNumber2</p>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 text-left mt-5 mx-5  ">
+                        <h3>Gender</h3>
+                        @if (Model.Gender == true)
+                        {
+                            <p> Is Male  <i class="fa-solid fa-child-reaching"></i></p>
+                        }
+                        else
+                        {
+                            <p> Is Female  <i class="fa-solid fa-child-dress"></i></p>
+
+                        }
+                        <h3>Alive Or No</h3>
+                        @if (Model.AliveOrNo == true)
+                        {
+                            <p> Alive </p>
+                        }
+                        else
+                        {
+                            <p class="text-danger font-weight-bolder"> Dead </p>
+
+                        }
+                        <h3>Date Of Birth</h3>
+                        <p>@Model.DateOfBirth</p>
+
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="container py-5">
+                <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@Model.National_Father_Id">Delete</a>
+                <a class="btn btn-outline-success" asp-action="Edit" asp-route-id="@Model.National_Father_Id">Edit</a>
+
+
+            </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+@* <h1>Detielse @Model.Name</h1>
+<div class="w-100 d-flex justify-content-center ">
+    <div class="text-center  w-25 h-auto ">
+        <img src="~/Files/Fathers_Images/@Model.ImageName" class="rounded w-100 h-100  " height="30" width="30" alt="Chield" />
+    </div>
+</div>
+<div class="form-group">
+    <label class="col-form-label"> National Id</label>
+    <input class="form-control" asp-for="National_Father_Id" readonly />
+    <span asp-validation-for="National_Father_Id" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Name"></label>
+    <input class="form-control" asp-for="Name" readonly />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="PhoneNumber1"></label>
+    <input class="form-control" asp-for="PhoneNumber1" readonly />
+    <span asp-validation-for="PhoneNumber1" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="PhoneNumber2"></label>
+    <input class="form-control" asp-for="PhoneNumber2" readonly />
+    <span asp-validation-for="PhoneNumber2" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="HomePhoneNumber"></label>
+    <input class="form-control" asp-for="HomePhoneNumber" readonly />
+    <span asp-validation-for="HomePhoneNumber" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="AliveOrNo"></label>
+    @if (Model.AliveOrNo==true)
+    {
+        <p class="text-center text-danger"  >Alive</p>
+    }
+    else
+    {
+        <p class="text-center text-danger">Dead</p>
+    }
+
+    <span asp-validation-for="AliveOrNo" class="text-danger"></span>
+</div>
+
+
+
+
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Address"></label>
+    <input class="form-control" asp-for="Address" readonly />
+    <span asp-validation-for="Address" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="DateOfBirth"></label>
+    <input class="form-control" asp-for="DateOfBirth" readonly />
+    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Nots"></label>
+    <textarea class="form-control" asp-for="Nots" readonly></textarea>
+    <span asp-validation-for="Nots" class="text-danger"></span>
+</div>
+<a class="btn btn-outline-danger" asp-controller="Father" asp-action="Edit" asp-route-id="@Model.National_Father_Id">Edit</a>
+<a class="btn btn-outline-danger" asp-controller="Father" asp-action="Index">Home Page</a> *@

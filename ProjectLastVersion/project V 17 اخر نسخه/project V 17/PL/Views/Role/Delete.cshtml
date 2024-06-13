@@ -1,0 +1,16 @@
+﻿@using PL.ViewModels
+@model RoleViewModel
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Are You Delete This Role?</h1>
+<br />
+<form asp-action="Delete" method="post">
+    <div asp-validation-summary="All"></div>
+    @Html.Partial("~/Views/Role/PartialViews/_DeleteDetailsView.cshtml")
+    <input asp-action="Delete" type="submit" value="Delete" class="btn btn-danger" />||
+    <a asp-action="Index" class="btn btn-light">Cancel</a>
+</form>
+

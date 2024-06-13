@@ -1,0 +1,165 @@
+﻿@model FatherViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<section>
+
+    <div class="wrapper">
+        <div class="inner shadow-lg ">
+
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <input asp-for="ImageName" hidden />
+                <h3>Edit Registration Form</h3>
+
+                <div class="form-group">
+                    <div class="form-wrapper">
+                        <label for="">Name</label>
+                        <input asp-for="Name" type="text" class="form-control">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-wrapper">
+                        <label for="">National number</label>
+                        <input asp-for="National_Father_Id" type="number" class="form-control">
+                        <span asp-validation-for="National_Father_Id" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-wrapper">
+                    <label for="">Address</label>
+                    <input asp-for="Address" type="text" class="form-control">
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+                <div class="form-wrapper">
+                    <label for="">Home Phone Number</label>
+                    <input asp-for="HomePhoneNumber" type="number" class="form-control" >
+                    <span asp-validation-for="HomePhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div class="form-wrapper">
+                        <label for="">Phone Number</label>
+                        <input asp-for="PhoneNumber1" type="text" class="form-control " >
+                        <span asp-validation-for="PhoneNumber1" class="text-danger"></span>
+                    </div>
+                    <div class="form-wrapper">
+                        <label for="">Other Phone Number</label>
+                        <input asp-for="PhoneNumber2" type="number" class="form-control" >
+                        <span asp-validation-for="PhoneNumber2" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="form-wrapper">
+                        <label for="">Date Of Birth</label>
+                        <input asp-for="DateOfBirth" type="datetime-local" class="form-control">
+                        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+
+                    </div>
+
+
+
+                    <div class="form-wrapper">
+                        <label for="">Father Photo</label>
+                        <input asp-for="Image" class="form-control border border-0">
+                        <span asp-validation-for="Image" class="text-danger"></span>
+
+                    </div>
+                </div>
+
+                <div class="form-wrapper">
+                    <label for="">Nots</label>
+                    <input asp-for="Nots" type="text" class="form-control">
+
+                </div>
+
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="AliveOrNo" type="checkbox" >  Is he Alive ?
+                        <span class="checkmark"></span>
+                    </label>
+
+                </div>
+                <button class="button">Edit Now</button>
+            </form>
+        </div>
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+@* 
+ 
+<h1>Edit</h1>
+
+ <form asp-action="Edit" enctype="multipart/form-data">
+    <div class="w-100 d-flex justify-content-center ">
+        <div class="text-center  w-25 h-auto ">
+            <img src="~/Files/Fathers_Images/@Model.ImageName" class="rounded w-100 h-100  " height="30" width="30" alt="Chield" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label"> National Id</label>
+        <input class="form-control" asp-for="National_Father_Id" readonly />
+        <span asp-validation-for="National_Father_Id" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="PhoneNumber1"></label>
+        <input class="form-control" asp-for="PhoneNumber1" />
+        <span asp-validation-for="PhoneNumber1" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="PhoneNumber2"></label>
+        <input class="form-control" asp-for="PhoneNumber2" />
+        <span asp-validation-for="PhoneNumber2" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="HomePhoneNumber"></label>
+        <input class="form-control" asp-for="HomePhoneNumber" />
+        <span asp-validation-for="HomePhoneNumber" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+
+        <label class="col-form-label">Is he a Alive ?</label>
+        <input class="form-control" asp-for="AliveOrNo" />
+        <span asp-validation-for="AliveOrNo" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Address"></label>
+        <input class="form-control" asp-for="Address" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="DateOfBirth"></label>
+        <input class="form-control" asp-for="DateOfBirth" />
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Image"></label>
+        <input class="form-control" asp-for="Image" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Nots"></label>
+        <textarea class="form-control" asp-for="Nots"></textarea>
+        <span asp-validation-for="Nots" class="text-danger"></span>
+    </div>
+    <input class="btn btn-outline-success" type="submit" />
+    <a class="btn btn-outline-danger" asp-controller="Father" asp-action="Index">Home Page</a>
+</form>
+ *@

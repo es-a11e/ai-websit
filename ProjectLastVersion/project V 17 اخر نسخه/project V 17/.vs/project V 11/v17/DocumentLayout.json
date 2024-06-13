@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project v 14\\dal\\entity\\mother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\mother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project v 14\\dal\\entity\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project v 14\\dal\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project v 14\\dal\\appdbcontext\\appdbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F59EE0-A96A-4433-97F3-ADFE3392784E}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext\\appdbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mother.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\Entity\\Mother.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Mother.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\Entity\\Mother.cs",
+              "RelativeToolTip": "DAL\\Entity\\Mother.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:34:45.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Father.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\Entity\\Father.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Father.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\Entity\\Father.cs",
+              "RelativeToolTip": "DAL\\Entity\\Father.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wBkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:33:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextClass.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\AppDbContext\\AppDbContextClass.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext\\AppDbContextClass.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\AppDbContext\\AppDbContextClass.cs",
+              "RelativeToolTip": "DAL\\AppDbContext\\AppDbContextClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:25:54.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\Entity\\Person.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Person.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 14\\DAL\\Entity\\Person.cs",
+              "RelativeToolTip": "DAL\\Entity\\Person.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:23:44.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project v 15\\pl\\views\\personal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\views\\personal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project v 15\\pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project v 15\\pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1FBD82C1-33CE-4FEE-AB0E-6A974340F1C9}|PL\\PL.csproj|solutionrelative:pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 15\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 15\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:01:45.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 15\\PL\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PL\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 15\\PL\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PL\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAHsBAAAAAAAAAAAAAEcCAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T05:01:02.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 15\\PL\\Views\\Personal\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Personal\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\00\\project V 15\\PL\\Views\\Personal\\Index.cshtml",
+              "RelativeToolTip": "PL\\Views\\Personal\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T01:53:37.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

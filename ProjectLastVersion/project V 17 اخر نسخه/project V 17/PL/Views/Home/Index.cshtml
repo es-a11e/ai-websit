@@ -1,0 +1,23 @@
+﻿@model IEnumerable< PersonsViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center m-5">
+    
+    <h1 class="display-4"><i class="fa-solid fa-people-roof"></i></h1>
+    @*     <h1 class="display-4"><i class="fa-solid fa-hands-holding-child"></i></h1>*@
+    <p class="font-weight-bolder text-info"> Welcome In My Software.</p>
+    <br />
+    <br />
+    <br />
+
+    <form class="row offset-2 mb-3" asp-controller="Personal" asp-action="Search">
+        <div class=" col-8">
+            <input class="form-control" type="number" name="SearchValue" placeholder="Chield Id" value="Search" />
+        </div>
+        <div class=" col-4">
+            <button class="mt-0 button bg-success">Search </button>
+        </div>
+    </form>
+</div>

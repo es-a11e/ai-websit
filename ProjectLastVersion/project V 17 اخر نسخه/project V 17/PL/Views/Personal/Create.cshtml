@@ -1,0 +1,87 @@
+﻿@model PersonsViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<section>
+
+	<div class="wrapper">
+		<div class="inner shadow-lg ">
+			@if (TempData["Massage"] is not null)
+			{
+				<div id="MassageDiv" class="alert alert-danger text-center ">
+					<h3 class="mb-0">@TempData["Massage"]</h3>
+				</div>
+			}
+			<form asp-action="Create" enctype="multipart/form-data">
+				
+				<h3>Registration Form</h3>
+				<div class="form-group">
+					<div class="form-wrapper">
+						<label for="">Name</label>
+						<input asp-for="Name" type="text" class="form-control">
+						<span asp-validation-for="Name" class="text-danger"></span>
+					</div>
+					<div class="form-wrapper">
+						<label for="">National number</label>
+						<input asp-for="NationalPerson_Id" type="number" class="form-control">
+						<span asp-validation-for="NationalPerson_Id" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="form-wrapper">
+					<label for="">Address</label>
+					<input asp-for="Address" type="text" class="form-control">
+					<span asp-validation-for="Address" class="text-danger"></span>
+				</div>
+				<div class="form-wrapper">
+					<label for="">Home Phone Number</label>
+					<input asp-for="HomePhoneNumber" type="number" class="form-control">
+					<span asp-validation-for="HomePhoneNumber" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<div class="form-wrapper">
+						<label for="">Date Of Birth</label>
+						<input asp-for="DateOfBirth" type="datetime-local" class="form-control">
+						<span asp-validation-for="DateOfBirth" class="text-danger"></span>
+
+					</div>
+					<div class="form-wrapper">
+						<label for="">Baby photo</label>
+						<input asp-for="Image" class="form-control border border-0">
+						<span asp-validation-for="Image" class="text-danger"></span>
+
+					</div>
+				</div>
+
+				<div class="form-group">
+					<div class="form-wrapper">
+						<label for="">Father's national number</label>
+						<input asp-for="National_Father_Id_FK" type="text" class="form-control">
+						<span asp-validation-for="National_Father_Id_FK" class="text-danger"></span>
+					</div>
+					<div class="form-wrapper">
+						<label for="">Mother's national number</label>
+						<input asp-for="National_Mother_Id_FK" type="number" class="form-control">
+						<span asp-validation-for="National_Mother_Id_FK" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="form-wrapper">
+					<label for="">Nots</label>
+					<input asp-for="Nots" type="text" class="form-control">
+					
+				</div>
+
+				<div class="checkbox">
+					<label>
+						<input asp-for="Gender" type="checkbox"> Is he a Male ?
+						<span class="checkmark"></span>
+					</label>
+
+				</div>
+				<button class="button">Register Now</button>
+			</form>
+		</div>
+	</div>
+
+</section>
