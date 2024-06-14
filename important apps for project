@@ -1,0 +1,47 @@
+# Project Name
+homless recognition 
+This project utilizes Anaconda for Python, Visual Studio Code, SQL Server, and Microsoft Visual Studio to run. Additionally, it incorporates AI functionality to compare images with data in the database.
+
+## Prerequisites
+
+Ensure the following tools are installed before running the project:
+
+- [Anaconda](https://www.anaconda.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/)
+- [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
+
+## Implementation
+
+To implement or run the project:
+
+1. Open Microsoft Visual Studio.
+2. Build a migration for the database, following the MVC architecture and written in C# language.
+3. Run both front-end and back-end applications.
+
+## AI Integration
+
+The project incorporates AI functionality to compare images with the database:
+
+1. Navigate to the designated page.
+2. Click on the AI button.
+3. Choose an image.
+4. The model compares the image with the data in the database.
+5. If a similar person is found, their data is displayed.
+6. Additionally, their parents' information is retrieved from the related table.
+7. If no similarity is found, a message indicating no match is displayed, prompting the user to try again.
+
+## Contributing
+
+If you'd like to contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/new-feature`).
+6. Create a pull request.
+
+## License
+
+This project is licensed under the [License Name](LICENSE).
