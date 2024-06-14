@@ -1,0 +1,330 @@
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\bin\Debug\net5.0\BLL.dll
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\bin\Debug\net5.0\BLL.pdb
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\bin\Debug\net5.0\DAL.dll
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\bin\Debug\net5.0\DAL.pdb
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.dll
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\BLL.pdb
+D:\02 Corses\Rout\02 Back-End\ASP.NET\Eng Aliaa Tarek\MVC\مشروع التخرج\project V 00\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 00\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 00\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 00\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 00\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 00\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 00\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 01\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 01\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 01\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 01\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 01\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 01\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 02\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 02\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 02\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 02\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 02\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 02\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 03\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 03\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 03\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 03\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 03\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 03\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 04\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 04\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 04\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 04\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 04\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 04\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 05\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 05\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 05\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 05\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 05\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 05\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 06\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 06\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 07\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+F:\مشروع التخرج\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 08\project V 08\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 09\project V 08\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Lenovo\Desktop\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 10\project V 08\project V 06\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 11\project V 11\project V 11\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 12\project V 11\project V 11\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 14\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 14\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 14\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 14\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 14\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 14\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 15\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 15\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 15\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 15\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 15\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 15\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\مشروع التخرج\00\project V 16\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\مشروع التخرج\00\project V 16\BLL\bin\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 16\BLL\bin\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 16\BLL\bin\Debug\net5.0\DAL.dll
+D:\مشروع التخرج\00\project V 16\BLL\bin\Debug\net5.0\DAL.pdb
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.dll
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\BLL.pdb
+D:\مشروع التخرج\00\project V 16\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\bin\Debug\net5.0\BLL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\bin\Debug\net5.0\BLL.pdb
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\bin\Debug\net5.0\DAL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\bin\Debug\net5.0\DAL.pdb
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Route Back-End\zz\Project Graduation\project V 17\project V 17\BLL\obj\Debug\net5.0\ref\BLL.dll

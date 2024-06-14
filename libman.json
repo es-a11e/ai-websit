@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.3",
+      "destination": "wwwroot/bootstrap/",
+      "files": [
+        "js/bootstrap.min.js",
+        "css/bootstrap-grid.min.css"
+      ]
+    },
+    {
+      "library": "font-awesome@6.5.2",
+      "destination": "wwwroot/font-awesome/",
+      "files": [
+        "css/all.min.css",
+        "js/all.min.js"
+      ]
+    }
+  ]
+}
