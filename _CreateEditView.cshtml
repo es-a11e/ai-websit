@@ -1,0 +1,29 @@
+﻿@using PL.ViewModels
+@model UserViewModel
+
+
+<div class="form-group">
+    <lable asp-for="Id" class="col-form-label"></lable>
+    <input asp-for="Id" class="form-control" />
+    @* <span asp-validation-for="Id" class="text-danger"></span> *@
+</div>
+<div class="form-group">
+    <lable class="col-form-label" asp-for="FName"></lable>
+    <input asp-for="FName" class="form-control"/>
+    @* <span asp-validation-for="FName" class="text-danger"></span> *@
+</div>
+<div class="form-group">
+    <lable class="col-form-label" asp-for="LName"></lable>
+    <input asp-for="LName" class="form-control" />
+    @* <span asp-validation-for="LName" class="text-danger"></span> *@
+</div>
+<div class="form-group">
+    <lable class="col-form-label" asp-for="Email"></lable>
+    <input asp-for="Email" class="form-control" />
+    @* <span asp-validation-for="Email" class="text-danger"></span> *@
+</div>
+<div class="form-group">
+    <lable class="col-form-label" asp-for="PhoneNumber"></lable>
+    <input asp-for="PhoneNumber" class="form-control" />
+    @* <span asp-validation-for="PhoneNumber" class="text-danger"></span> *@
+</div>

@@ -1,0 +1,109 @@
+﻿@model PersonsViewModel
+@{
+    ViewData["Title"] = "Detielse";
+}
+
+
+<section class=" background-image height section  py-5 text-center d-flex align-items-center justify-content-center ">
+    <div class="background-image widthDetiles rounded shadow-lg the-continer box ">
+        <div class="row ">
+            <div class="col-md-4 mt-3 ShadowElement ">
+
+                @if (Model.Is_he_missing == true)
+                {
+
+                    <img src="~/Files/Chiledrens_Images/@Model.ImageName" class=" rounded-circle shadow-lg border   border-info overflow-hidden my-2 " width="280" height="280" alt="Chield" />
+                }
+                else
+                {
+                    <img src="~/Files/Chiledrens_Images/@Model.ImageName" class=" rounded-circle    overflow-hidden my-2 shadow-lg " width="280" height="280" alt="Chield" />
+
+                }
+                <h4 class="font-weight-bolder ">Name</h4>
+                @if (Model.Is_he_missing == true)
+                {
+
+                    <p class="lead font-weight-bold text-danger ">@Model.Name </p>
+                }
+                else
+                {
+                    <p class="lead  ">@Model.Name </p>
+
+                }
+
+                <h4 class="font-weight-bolder">National number</h4>
+                @if (Model.Is_he_missing == true)
+                {
+
+                    <p class="lead font-weight-bold text-danger ">@Model.NationalPerson_Id </p>
+
+                }
+                else
+                {
+                    <p class="lead">@Model.NationalPerson_Id </p>
+
+                }
+
+                <h4 class="font-weight-bolder">Address</h4>
+                @if (Model.Is_he_missing == true)
+                {
+
+                    <p class="lead font-weight-bold text-danger  ">@Model.Address </p>
+
+                }
+                else
+                {
+                    <p class="lead">@Model.Address </p>
+                }
+
+
+            </div>
+            <div class="col-md-8 mt-3  w-100 ">
+                <div class="hightNots p-3 ">
+                    <h2 class="font-weight-bolder"> Nots </h2>
+                    <p class="lead ">@Model.Nots</p>
+                </div>
+
+                <div class="row mt-5">
+                    <div class="col-md-4 text-left m-5 ">
+                        <h3 class="font-weight-bolder">Father</h3>
+                        <p>@Model.Father.Name</p>
+                        <h3 class="font-weight-bolder">Mother</h3>
+                        <p>@Model.Mother.Name</p>
+                        <h3 class="font-weight-bolder">HomePhoneNumber </h3>
+                        @if (Model.Is_he_missing == true)
+                        {
+
+                            <p class="lead font-weight-bold text-danger "><span>0</span>@Model.HomePhoneNumber</p>
+
+                        }
+                        else
+                        {
+                            <p class="lead"><span>0</span>@Model.HomePhoneNumber</p>
+                        }
+
+                    </div>
+                    <div class="col-md-4 text-left m-5 ">
+                        <h3>Gender</h3>
+                        @if (Model.Gender == true)
+                        {
+                            <p> Is Male  <i class="fa-solid fa-child-reaching"></i></p>
+                        }
+                        else
+                        {
+                            <p> Is Female  <i class="fa-solid fa-child-dress"></i></p>
+
+                        }
+                        <h3>Date Of Birth</h3>
+                        <p>@Model.DateOfBirth</p>
+                        <br />
+                        <a class="btn btn-outline-danger " asp-controller="Father" asp-action="Detielse" asp-route-id="@Model.National_Father_Id_FK">Father</a>
+                        <a class="btn btn-outline-danger " asp-controller="Mother" asp-action="Details" asp-route-id="@Model.National_Mother_Id_FK">Mother</a>
+                        <a class="btn btn-outline-success" asp-controller="Personal" asp-action="Edit" asp-route-id="@Model.NationalPerson_Id">Edit</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

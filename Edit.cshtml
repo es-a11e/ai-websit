@@ -1,0 +1,16 @@
+﻿@using PL.ViewModels
+@model UserViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit Users</h1>
+<form asp-action="Edit" class="ml-3 ">
+    <div asp-validation-summary="All"></div>
+    @Html.Partial("~/Views/User/PartialViews/_CreateEditView.cshtml")
+    @* <partial name="PartialViews/_CreateEditView.cshtml"/> *@
+    <input type="submit" name="Save" class="btn btn-primary" /> ||
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+
+</form>
